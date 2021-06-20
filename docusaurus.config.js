@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'nervous-mayer-9d10d7.netlify.app',
+  url: 'https://nervous-mayer-9d10d7.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
