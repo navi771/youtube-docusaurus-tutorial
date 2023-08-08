@@ -1,3 +1,4 @@
-# title
+# My Markdown page
 
-some text
+This is a Markdown page
+ 

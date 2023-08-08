@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'My Site Docurus',
   tagline: 'Dinosaurs are cool',
   url: 'https://nervous-mayer-9d10d7.netlify.app',
   baseUrl: '/',
@@ -14,7 +14,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My tutorial',
+      //title: 'My tutorial',
       logo: {
         alt: 'My Site Logo',
         src: 'img/undraw_influencer.svg',
@@ -26,7 +26,7 @@ module.exports = {
           position: 'left',
           label: 'Documentation',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+       // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/FedericoTartarini/youtube-docusaurus-tutorial',
           label: 'GitHub',
